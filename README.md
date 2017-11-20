@@ -1,5 +1,9 @@
-# SoftUni - Programming Fundamentals Extended:
-<p>Containing the tasks from SoftUni's course Programming Fundamentals Extended May 2017.</p>
+* <p align="center"> Programming Fundamentals - Extended - May 2017 2017<p>
+<a href="https://softuni.bg/trainings/1618/programming-fundamentals-extended-may-2017">  ![SoftUni logo][logo] <a/>
+  		  
+[logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Logo Title Text 2"
+ 		 
+ ---
 
 <h1><strong>Labs:</strong></h1>
 
